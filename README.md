@@ -14,6 +14,8 @@ https://wiki.radxa.com/Home
 
 https://dl.khadas.com/products/
 
+https://wiki.odroid.com/
+
 https://wiki.banana-pi.org/Main_Page
 
 ...
