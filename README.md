@@ -18,4 +18,6 @@ https://wiki.odroid.com/
 
 https://wiki.banana-pi.org/Main_Page
 
+https://doc.amlogic.com/login/index
+
 ...
